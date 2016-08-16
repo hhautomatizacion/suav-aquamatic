@@ -34,7 +34,6 @@
 	* Documentos pensados para el usuario final
 		* Manuales de usuario
 		* Manuales de programacion
-		* Programas compilados
 * Carpeta de Fotos
 	* Fotos del proyecto antes, durante y despues del desarrollo del mismo
 		* Fotos
@@ -47,13 +46,31 @@
 * Carpeta de Programas
 	* Programas de Computadora, PLC, etc. 
 		* Codigos fuente
-		* Iconos, imagenes y archivos de configuracion de los programas
+		* Iconos e imagenes utilizados en los programas 
+		* Archivos de configuracion de los programas
+		* Programas compilados
 * Carpeta de Pruebas
 	* Pruebas preliminares del proyecto
 		* Programas incompletos, o secciones de programas
 		* Capturas de comunicacion
 		* Modelos de componentes que se hayan probado
 
+---
+![Captura de pantalla 2016-08-13 12.25.54.png](/Fotos/Captura de pantalla 2016-08-13 12.25.54.png)
+---
+![Captura de pantalla 2016-08-13 12.26.01.png](/Fotos/Captura de pantalla 2016-08-13 12.26.01.png)
+---
+![Captura de pantalla 2016-08-13 12.26.07.png](/Fotos/Captura de pantalla 2016-08-13 12.26.07.png)
+---
+![Captura de pantalla 2016-08-13 12.26.16.png](/Fotos/Captura de pantalla 2016-08-13 12.26.16.png)
+---
+![Captura de pantalla 2016-08-13 12.26.22.png](/Fotos/Captura de pantalla 2016-08-13 12.26.22.png)
+---
+![Captura de pantalla 2016-08-13 12.26.32.png](/Fotos/Captura de pantalla 2016-08-13 12.26.32.png)
+---
+![Captura de pantalla 2016-08-13 12.26.36.png](/Fotos/Captura de pantalla 2016-08-13 12.26.36.png)
+---
+![Captura de pantalla 2016-08-13 12.26.45.png](/Fotos/Captura de pantalla 2016-08-13 12.26.45.png)
 ---
 ![DSC03411.JPG](/Fotos/DSC03411.JPG)
 ---
